@@ -1,0 +1,214 @@
+{
+  "navigation": {
+    "useCases": "Use Cases",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "meta": {
+      "title": "Naga Balm - Traditional Cambodian Healing Balm",
+      "description": "Experience the power of ancient Cambodian remedies with Naga Balm's traditional healing products."
+    },
+    "hero": {
+      "title": "Traditional Healing Balm",
+      "subtitle": "At Naga Balm, we are modernizing the time-honored remedy of the Preng Kola, preserving its legacy while evolving it for the 21st century.",
+      "cta": "Shop Now"
+    },
+    "about": {
+      "title": "Our Story",
+      "description": "At Naga Balm, we are modernizing the time-honored remedy of the Preng Kola, preserving its legacy while evolving it for the 21st century. Our journey began with a deep respect for traditional Cambodian healing practices.",
+      "values": [
+        {
+          "title": "Heritage",
+          "description": "Preserving ancient Cambodian healing traditions"
+        },
+        {
+          "title": "Innovation",
+          "description": "Combining tradition with modern science"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Choose Naga Balm",
+      "items": [
+        {
+          "title": "100% Natural",
+          "description": "Made with traditional Cambodian herbs and natural ingredients",
+          "icon": "leaf"
+        },
+        {
+          "title": "Handcrafted",
+          "description": "Carefully produced in small batches to ensure quality",
+          "icon": "hand"
+        },
+        {
+          "title": "Effective Relief",
+          "description": "Proven formulas for pain relief and muscle recovery",
+          "icon": "star"
+        }
+      ]
+    },
+    "howToUse": {
+      "title": "How to Use",
+      "description": "Simple steps for maximum effectiveness",
+      "steps": [
+        {
+          "title": "Clean",
+          "description": "Ensure the area is clean and dry"
+        },
+        {
+          "title": "Apply",
+          "description": "Gently massage a small amount onto affected area"
+        },
+        {
+          "title": "Repeat",
+          "description": "Apply 2-3 times daily or as needed"
+        }
+      ]
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Discover our range of traditional healing balms",
+    "allCategories": "All Products",
+    "categories": {
+      "balms": "Healing Balms",
+      "oils": "Massage Oils"
+    },
+    "search": {
+      "placeholder": "Search products..."
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Our most popular healing solutions",
+      "viewAll": "View All Products"
+    }
+  },
+  "about": {
+    "title": "Who We Are",
+    "description": "Our journey from tradition to innovation",
+    "hero": {
+      "title": "WHO WE ARE",
+      "description": "Naga Balm began in 2013, born by the observation that while the traditional Preng Kola ointment is widely used, there was no petroleum-free, natural alternative available."
+    },
+    "story": {
+      "title": "The solution?",
+      "description": [
+        "People deserved a choice—one that combined the wisdom of tradition with modern, cleaner ingredients.",
+        "A coconut oil-based Preng Kola that stayed as natural as possible, without compromising on effectiveness. The symbol of the Naga was chosen to honor its deep historical significance—legend tells of Naga skin being used in a magical elixir for healing.",
+        "This nod to ancient wisdom reflects our mission to provide trusted, effective pain relief in a modern, safe way."
+      ]
+    },
+    "today": {
+      "title": "Today",
+      "description": [
+        "Relaunched in August 2023, Naga Balm continues to be handcrafted by Coco Khmer Co., Ltd.",
+        "Operating out of a purpose-built cosmetics-grade manufacturing facility in Chak Angre Krom, we pride ourselves on being a boutique manufacturer—small but ambitious, with a steadfast commitment to elevating the standards of topical pain relief.",
+        "We still do everything mostly by hand —from mixing the formulation to pouring and labeling. While we appreciate the efficiency of machines, we value people more, believing that the human touch is an essential part of what makes Naga Balm special."
+      ]
+    },
+    "team": {
+      "title": "The People Behind Naga Balm",
+      "subtitle": "Meet the passionate team dedicated to preserving and evolving Cambodia's healing traditions.",
+      "members": [
+        {
+          "name": "Founder Name",
+          "role": "Founder & CEO",
+          "description": "With over 15 years of experience in traditional medicine, [Name] founded Naga Balm with a vision to modernize ancient healing practices."
+        },
+        {
+          "name": "Master Formulator Name",
+          "role": "Head of Product Development",
+          "description": "Leading our formulation process, [Name] combines traditional knowledge with modern cosmetic science."
+        },
+        {
+          "name": "Production Lead Name",
+          "role": "Head of Production",
+          "description": "Ensuring every batch meets our high standards, [Name] oversees our handcrafted production process."
+        }
+      ],
+      "quote": "Our team combines decades of experience in traditional healing with a commitment to innovation, ensuring every Naga Balm product honors its roots while meeting modern standards of excellence."
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "subtitle": "From tradition to innovation",
+      "values": [
+        {
+          "title": "Traditional Wisdom",
+          "description": "Honoring and preserving Cambodia's healing traditions"
+        },
+        {
+          "title": "Natural Innovation",
+          "description": "Creating modern solutions with clean, natural ingredients"
+        },
+        {
+          "title": "Handcrafted Excellence",
+          "description": "Maintaining quality through artisanal production"
+        },
+        {
+          "title": "Community Impact",
+          "description": "Supporting local communities and traditional knowledge"
+        }
+      ]
+    },
+    "meta": {
+      "title": "About Us | Naga Balm",
+      "description": "Learn about our story, mission, and the team behind Naga Balm."
+    },
+    "hero": {
+      "title": "Our Story",
+      "subtitle": "Discover the journey behind Naga Balm and our mission to preserve traditional Cambodian healing."
+    },
+    "partners": {
+      "title": "Our Trusted Partners",
+      "subtitle": "Find Naga Balm at these authorized retailers across Cambodia"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions? We'd love to hear from you.",
+    "address": "Our Location",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact Info",
+    "tagline": "Petroleum-Free | 100% Natural | Handcrafted in Cambodia"
+  },
+  "newsletter": {
+    "title": "Subscribe to our newsletter",
+    "description": "Get the latest updates on our products and traditional healing methods.",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing!",
+    "error": "An error occurred. Please try again."
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "description": "Discover how to use our products effectively",
+    "cases": [
+      {
+        "title": "Muscle Pain",
+        "description": "For sore muscles, sprains, and general muscle discomfort. Apply Naga Balm Fire for deep penetrating relief."
+      },
+      {
+        "title": "Headache & Migraine",
+        "description": "Use Naga Balm Ice on temples and forehead for cooling relief from headaches and migraines."
+      },
+      {
+        "title": "Joint Pain",
+        "description": "For arthritis and joint pain, use Naga Balm Original for gentle, sustained relief."
+      },
+      {
+        "title": "Sports Recovery",
+        "description": "Use Naga Balm Go before and after exercise to prevent injury and aid recovery."
+      }
+    ]
+  }
+} 

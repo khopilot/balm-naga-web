@@ -1,0 +1,90 @@
+{
+  "about": {
+    "hero": {
+      "title": "WHO WE ARE",
+      "subtitle": "Naga Balm began in 2013, born by the observation that while the traditional Preng Kola ointment is widely used, there was no petroleum-free, natural alternative available."
+    },
+    "story": {
+      "intro": "People deserved a choice—one that combined the wisdom of tradition with modern, cleaner ingredients.",
+      "solution": {
+        "title": "The solution?",
+        "content": [
+          "A coconut oil-based Preng Kola that stayed as natural as possible, without compromising on effectiveness.",
+          "The symbol of the Naga was chosen to honor its deep historical significance—legend tells of Naga skin being used in a magical elixir for healing.",
+          "This nod to ancient wisdom reflects our mission to provide trusted, effective pain relief in a modern, safe way."
+        ]
+      }
+    },
+    "today": {
+      "title": "Today",
+      "content": [
+        "Relaunched in August 2023, Naga Balm continues to be handcrafted by Coco Khmer Co., Ltd. Operating out of a purpose-built cosmetics-grade manufacturing facility in Chak Angre Krom, we pride ourselves on being a boutique manufacturer—small but ambitious, with a steadfast commitment to elevating the standards of topical pain relief.",
+        "We still do everything mostly by hand—from mixing the formulation to pouring and labeling. While we appreciate the efficiency of machines, we value people more, believing that the human touch is an essential part of what makes Naga Balm special."
+      ]
+    },
+    "team": {
+      "title": "The People Behind Naga Balm",
+      "subtitle": "Meet the passionate team dedicated to preserving and evolving Cambodia's healing traditions.",
+      "members": {
+        "founder": {
+          "title": "Founder & CEO",
+          "description": "With over 15 years of experience in traditional medicine, [Name] founded Naga Balm with a vision to modernize ancient healing practices."
+        },
+        "formulator": {
+          "title": "Head of Product Development",
+          "description": "Leading our formulation process, [Name] combines traditional knowledge with modern cosmetic science."
+        },
+        "production": {
+          "title": "Head of Production",
+          "description": "Ensuring every batch meets our high standards, [Name] oversees our handcrafted production process."
+        }
+      },
+      "quote": "Our team combines decades of experience in traditional healing with a commitment to innovation, ensuring every Naga Balm product honors its roots while meeting modern standards of excellence."
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Discover our range of natural pain relief solutions",
+    "filterTitle": "I am looking for relief for...",
+    "categories": {
+      "balms": "Healing Balms",
+      "oils": "Massage Oils",
+      "sprays": "Sprays",
+      "inhalers": "Inhalers"
+    },
+    "filters": {
+      "who": {
+        "title": "Who is it for?",
+        "all": "All people",
+        "families": "Families & Children",
+        "sensitive": "Sensitive skin"
+      },
+      "type": {
+        "title": "Type of Relief",
+        "heat": "Deep heat relief",
+        "sports": "Sports & Exercise",
+        "headaches": "Headaches"
+      },
+      "specific": {
+        "title": "Specific Needs",
+        "joint": "Joint & Muscle Pain",
+        "nausea": "Nausea & Dizziness",
+        "congestion": "Congestion"
+      }
+    },
+    "product": {
+      "ingredients": "Ingredients",
+      "keyIngredient": "Key Ingredient",
+      "benefits": "Benefits",
+      "recommendedFor": "Recommended for",
+      "learnMore": "Learn More",
+      "reviews": {
+        "title": "Customer Reviews",
+        "writeReview": "Write a Review",
+        "rating": "Rating",
+        "comment": "Your Review",
+        "submit": "Submit Review"
+      }
+    }
+  }
+} 
